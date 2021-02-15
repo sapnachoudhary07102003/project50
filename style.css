@@ -1,0 +1,18 @@
+.menu{
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+    font-family:sans-serif;
+    font-size:20px;
+    color:white;
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+}
+.origami{
+    border-radius:20px;
+    background-color:pink;
+    width:310px;
+    font-family:fantasy;
+}
